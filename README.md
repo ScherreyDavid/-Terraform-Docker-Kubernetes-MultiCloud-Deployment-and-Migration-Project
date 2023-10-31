@@ -8,7 +8,7 @@ The overarching goal of the project is to demonstrate expertise in MultiCloud ar
 
 [Mission 1 (MultiCloud Infrastructure Setup)]: Mission 1 laid the foundation for MultiCloud deployment. It involved setting up AWS and GCP environments, configuring access, enabling essential APIs, and defining cloud resources using Terraform.
 
-[Mission 2 (Database and Application Configuration)]: In Mission 2, the project focused on database configuration and application setup. Secure database access was established on Google Cloud SQL, and the application was containerized, deployed on Google Kubernetes Engine (GKE), and configured for MultiCloud operation.
+[Mission 2 Database and Application Configuration]: In Mission 2, the project focused on database configuration and application setup. Secure database access was established on Google Cloud SQL, and the application was containerized, deployed on Google Kubernetes Engine (GKE), and configured for MultiCloud operation.
 
 [Mission 3 (Data and Application Migration)]: The final mission of the project emphasized data and application migration. Data from an "on-premises" database was exported and imported into Cloud SQL on GCP. Simultaneously, PDF files used in the application were migrated to an AWS S3 bucket. The result is a fully operational MultiCloud architecture where the application can be accessed and data is seamlessly available.
 
