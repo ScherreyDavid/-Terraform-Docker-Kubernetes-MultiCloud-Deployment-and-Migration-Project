@@ -18,4 +18,3 @@ The overarching goal of the project is to demonstrate expertise in MultiCloud ar
 
 These missions culminate in a successful MultiCloud deployment, where data and applications have been effectively migrated across AWS and GCP. The project exemplifies skills in managing complex infrastructure and showcases the practical application of cloud technologies in real-world scenarios. It serves as a strong testament to the ability to design, configure, and migrate resources across multiple cloud providers, ensuring scalability, performance, and security throughout the process.
 
-![Untitled](/SC3.png)
