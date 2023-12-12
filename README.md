@@ -1,7 +1,8 @@
 # Terraform-Docker-Kubernetes-MultiCloud-Deployment-and-Migration-Project
 ![Untitled](/SC.png)
 
-Luxury Hotels & Resorts company migrating application and data to the Cloud
+Luxury Hotels & Resorts Company Migrating Application and Data to the Cloud
+
 The Problem: The General Manager of the company requests the receptionist to record all the Covid-19 testing results of all the guests so that it can be documented within their system. The hotel company started to have problems because their (local) on-premises data center was not able to keep up with the workloads anymore. And the IT Management decided to migrate their application and data to public cloud providers.
 
 The "Terraform, Docker, Kubernetes: MultiCloud Deployment and Migration Project" is a complex and practical initiative showcasing advanced skills in MultiCloud infrastructure management, application migration, and database deployment across Amazon Web Services (AWS) and Google Cloud Platform (GCP). This project leverages a range of technologies, including Terraform, Docker, Kubernetes, and cloud services from both AWS and GCP.
