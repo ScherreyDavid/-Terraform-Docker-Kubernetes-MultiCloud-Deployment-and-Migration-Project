@@ -1,5 +1,5 @@
 # Terraform-Docker-Kubernetes-MultiCloud-Deployment-and-Migration-Project
-![Untitled](docs/assets/images/overview.png)
+![Untitled](/SC.png)
 
 Luxury Hotels & Resorts company migrating application and data to the Cloud
 The Problem: The General Manager of the company requests the receptionist to record all the Covid-19 testing results of all the guests so that it can be documented within their system. The hotel company started to have problems because their (local) on-premises data center was not able to keep up with the workloads anymore. And the IT Management decided to migrate their application and data to public cloud providers.
